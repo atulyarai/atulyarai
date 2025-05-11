@@ -2,7 +2,7 @@
 
 🎓 CSE undergrad | 🛠️ Full-stack & QA enthusiast | 🚀 Always building something fun
 
-Currently part of the founding team at **Merlin AI**, where I switch between breaking things (QA) and building them (dev) — sometimes both in the same sprint 😅. 
+Currently part of the founding team at **Merlin AI**, where I switch between breaking things (QA) and building them (dev) — sometimes both in the same sprint. 
 
 Currently losing arguments to linters and pretending console.log is a debugging strategy.
 
