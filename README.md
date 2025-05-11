@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Atulya
 
-🎓 CSE undergrad | 🛠️ Full-stack & QA enthusiast | 🚀 Always building something fun
+CSE undergrad at IIITN| Full-stack enthusiast | Always building something fun
 
 Currently part of the founding team at **Merlin AI**, where I switch between breaking things (QA) and building them (dev) — sometimes both in the same sprint. 
 
